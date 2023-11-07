@@ -1,0 +1,12 @@
+Sistema de lanchonete DELIVERYS
+Demo > http://deliverys.epizy.com/
+=========================================
+Linguagem > português-Brasil (pt-br)
+BackEnd > PHP7
+ForntEnd > HTML, CSS, BOOTSTRAP E W3.CSS
+=========================================
++ banco de dandos
++ carrinho em session
++ usuario não presciza se cadastrar
++ responsivo mobile
++ pedido enviado por whatsapp
